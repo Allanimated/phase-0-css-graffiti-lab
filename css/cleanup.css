@@ -45,7 +45,7 @@ body div#wall div.parent div:last-child div#tag-6 {
     display: none;
 }
   
-body div#wall div.parent div:only-child > #tag-7.slick {
+body div#wall:last-child div.parent div:first-child > div#tag-7.slick {
     display: none;
 }
   
